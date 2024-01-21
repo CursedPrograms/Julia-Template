@@ -1,0 +1,14 @@
+# Project.toml
+
+[project]
+name = "MyJuliaProject"
+version = "0.1.0"
+
+[deps]
+# Dependencies can be added here. This is just an example.
+# The format is package_name = "version" or package_name.
+
+# Uncomment and modify the following lines as needed.
+# Example:
+# CSV = "0.8.0"
+# Plots = "1.6.12"
